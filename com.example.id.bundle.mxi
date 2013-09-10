@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<macromedia-extension id="com.example.id" name="com.example.id" requires-restart="true" version="1.0.0">
+  <author name="YourName"/>
+  <description><![CDATA[You description here]]></description>
+  <license-agreement><![CDATA[Your license agreement here]]></license-agreement>
+  <products>
+    <product familyname="Photoshop"/>
+  </products>
+  <files>
+    <file destination="" file-type="CSXS" products="" source="C.zxp"/>
+    <file destination="" file-type="CSXS" products="" source="A.zxp"/>
+    <file destination="" file-type="CSXS" products="" source="B.zxp"/>
+  </files>
+</macromedia-extension>
